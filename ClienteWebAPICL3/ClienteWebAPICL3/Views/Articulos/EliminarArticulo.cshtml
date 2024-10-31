@@ -1,0 +1,60 @@
+﻿@model ClienteWebAPICL3.Models.Articulos
+
+@{
+    ViewData["Title"] = "EliminarArticulo";
+}
+
+<h1>EliminarArticulo</h1>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.cod_art)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.cod_art)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.nom_art)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.nom_art)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.uni_med)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.uni_med)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.pre_art)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.pre_art)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.stk_art)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.stk_art)
+        </dd>
+        <dd class="col-sm-10">
+            <td>
+                <img src="@Url.Content($"/articulos/{Model.cod_art}.jpg")"
+                     alt="@Model.nom_art"
+                     style="width:200x;height:200px;" />
+            </td>
+        </dd>
+    </dl>
+    
+    <form asp-action="EliminarArticulos">
+        <input type="hidden" asp-for="cod_art"/>
+        <input type="submit" value="Liquidar Articulo" class="btn btn-danger" /> |
+        <a asp-action="ListarArticulosNombre" class="btn btn-info">Regresar</a>
+    </form>
+</div>
+<br />
+<div>
+    <p>@ViewBag.Eliminar</p>
+</div>

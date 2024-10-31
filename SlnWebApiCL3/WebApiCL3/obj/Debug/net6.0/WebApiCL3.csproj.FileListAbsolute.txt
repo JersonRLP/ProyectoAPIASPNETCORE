@@ -1,0 +1,76 @@
+D:\SERVICIOSPROYECTOS\EXAMENES\CL3\WebApiCL3\SlnWebApiCL3\WebApiCL3\bin\Debug\net6.0\appsettings.Development.json
+D:\SERVICIOSPROYECTOS\EXAMENES\CL3\WebApiCL3\SlnWebApiCL3\WebApiCL3\bin\Debug\net6.0\appsettings.json
+D:\SERVICIOSPROYECTOS\EXAMENES\CL3\WebApiCL3\SlnWebApiCL3\WebApiCL3\bin\Debug\net6.0\WebApiCL3.exe
+D:\SERVICIOSPROYECTOS\EXAMENES\CL3\WebApiCL3\SlnWebApiCL3\WebApiCL3\bin\Debug\net6.0\WebApiCL3.deps.json
+D:\SERVICIOSPROYECTOS\EXAMENES\CL3\WebApiCL3\SlnWebApiCL3\WebApiCL3\bin\Debug\net6.0\WebApiCL3.runtimeconfig.json
+D:\SERVICIOSPROYECTOS\EXAMENES\CL3\WebApiCL3\SlnWebApiCL3\WebApiCL3\bin\Debug\net6.0\WebApiCL3.dll
+D:\SERVICIOSPROYECTOS\EXAMENES\CL3\WebApiCL3\SlnWebApiCL3\WebApiCL3\bin\Debug\net6.0\WebApiCL3.pdb
+D:\SERVICIOSPROYECTOS\EXAMENES\CL3\WebApiCL3\SlnWebApiCL3\WebApiCL3\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\SERVICIOSPROYECTOS\EXAMENES\CL3\WebApiCL3\SlnWebApiCL3\WebApiCL3\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SERVICIOSPROYECTOS\EXAMENES\CL3\WebApiCL3\SlnWebApiCL3\WebApiCL3\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SERVICIOSPROYECTOS\EXAMENES\CL3\WebApiCL3\SlnWebApiCL3\WebApiCL3\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SERVICIOSPROYECTOS\EXAMENES\CL3\WebApiCL3\SlnWebApiCL3\WebApiCL3\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\SERVICIOSPROYECTOS\EXAMENES\CL3\WebApiCL3\SlnWebApiCL3\WebApiCL3\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\SERVICIOSPROYECTOS\EXAMENES\CL3\WebApiCL3\SlnWebApiCL3\WebApiCL3\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\SERVICIOSPROYECTOS\EXAMENES\CL3\WebApiCL3\SlnWebApiCL3\WebApiCL3\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\SERVICIOSPROYECTOS\EXAMENES\CL3\WebApiCL3\SlnWebApiCL3\WebApiCL3\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SERVICIOSPROYECTOS\EXAMENES\CL3\WebApiCL3\SlnWebApiCL3\WebApiCL3\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SERVICIOSPROYECTOS\EXAMENES\CL3\WebApiCL3\SlnWebApiCL3\WebApiCL3\obj\Debug\net6.0\WebApiCL3.csproj.AssemblyReference.cache
+D:\SERVICIOSPROYECTOS\EXAMENES\CL3\WebApiCL3\SlnWebApiCL3\WebApiCL3\obj\Debug\net6.0\WebApiCL3.GeneratedMSBuildEditorConfig.editorconfig
+D:\SERVICIOSPROYECTOS\EXAMENES\CL3\WebApiCL3\SlnWebApiCL3\WebApiCL3\obj\Debug\net6.0\WebApiCL3.AssemblyInfoInputs.cache
+D:\SERVICIOSPROYECTOS\EXAMENES\CL3\WebApiCL3\SlnWebApiCL3\WebApiCL3\obj\Debug\net6.0\WebApiCL3.AssemblyInfo.cs
+D:\SERVICIOSPROYECTOS\EXAMENES\CL3\WebApiCL3\SlnWebApiCL3\WebApiCL3\obj\Debug\net6.0\WebApiCL3.csproj.CoreCompileInputs.cache
+D:\SERVICIOSPROYECTOS\EXAMENES\CL3\WebApiCL3\SlnWebApiCL3\WebApiCL3\obj\Debug\net6.0\WebApiCL3.MvcApplicationPartsAssemblyInfo.cs
+D:\SERVICIOSPROYECTOS\EXAMENES\CL3\WebApiCL3\SlnWebApiCL3\WebApiCL3\obj\Debug\net6.0\WebApiCL3.MvcApplicationPartsAssemblyInfo.cache
+D:\SERVICIOSPROYECTOS\EXAMENES\CL3\WebApiCL3\SlnWebApiCL3\WebApiCL3\obj\Debug\net6.0\staticwebassets\msbuild.WebApiCL3.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SERVICIOSPROYECTOS\EXAMENES\CL3\WebApiCL3\SlnWebApiCL3\WebApiCL3\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApiCL3.props
+D:\SERVICIOSPROYECTOS\EXAMENES\CL3\WebApiCL3\SlnWebApiCL3\WebApiCL3\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApiCL3.props
+D:\SERVICIOSPROYECTOS\EXAMENES\CL3\WebApiCL3\SlnWebApiCL3\WebApiCL3\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApiCL3.props
+D:\SERVICIOSPROYECTOS\EXAMENES\CL3\WebApiCL3\SlnWebApiCL3\WebApiCL3\obj\Debug\net6.0\staticwebassets.pack.json
+D:\SERVICIOSPROYECTOS\EXAMENES\CL3\WebApiCL3\SlnWebApiCL3\WebApiCL3\obj\Debug\net6.0\staticwebassets.build.json
+D:\SERVICIOSPROYECTOS\EXAMENES\CL3\WebApiCL3\SlnWebApiCL3\WebApiCL3\obj\Debug\net6.0\staticwebassets.development.json
+D:\SERVICIOSPROYECTOS\EXAMENES\CL3\WebApiCL3\SlnWebApiCL3\WebApiCL3\obj\Debug\net6.0\scopedcss\bundle\WebApiCL3.styles.css
+D:\SERVICIOSPROYECTOS\EXAMENES\CL3\WebApiCL3\SlnWebApiCL3\WebApiCL3\obj\Debug\net6.0\WebApiCL3.csproj.CopyComplete
+D:\SERVICIOSPROYECTOS\EXAMENES\CL3\WebApiCL3\SlnWebApiCL3\WebApiCL3\obj\Debug\net6.0\WebApiCL3.dll
+D:\SERVICIOSPROYECTOS\EXAMENES\CL3\WebApiCL3\SlnWebApiCL3\WebApiCL3\obj\Debug\net6.0\refint\WebApiCL3.dll
+D:\SERVICIOSPROYECTOS\EXAMENES\CL3\WebApiCL3\SlnWebApiCL3\WebApiCL3\obj\Debug\net6.0\WebApiCL3.pdb
+D:\SERVICIOSPROYECTOS\EXAMENES\CL3\WebApiCL3\SlnWebApiCL3\WebApiCL3\obj\Debug\net6.0\WebApiCL3.genruntimeconfig.cache
+D:\SERVICIOSPROYECTOS\EXAMENES\CL3\WebApiCL3\SlnWebApiCL3\WebApiCL3\obj\Debug\net6.0\ref\WebApiCL3.dll
+C:\WebApiCL3 - copia\SlnWebApiCL3\WebApiCL3\bin\Debug\net6.0\appsettings.Development.json
+C:\WebApiCL3 - copia\SlnWebApiCL3\WebApiCL3\bin\Debug\net6.0\appsettings.json
+C:\WebApiCL3 - copia\SlnWebApiCL3\WebApiCL3\bin\Debug\net6.0\WebApiCL3.exe
+C:\WebApiCL3 - copia\SlnWebApiCL3\WebApiCL3\bin\Debug\net6.0\WebApiCL3.deps.json
+C:\WebApiCL3 - copia\SlnWebApiCL3\WebApiCL3\bin\Debug\net6.0\WebApiCL3.runtimeconfig.json
+C:\WebApiCL3 - copia\SlnWebApiCL3\WebApiCL3\bin\Debug\net6.0\WebApiCL3.dll
+C:\WebApiCL3 - copia\SlnWebApiCL3\WebApiCL3\bin\Debug\net6.0\WebApiCL3.pdb
+C:\WebApiCL3 - copia\SlnWebApiCL3\WebApiCL3\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\WebApiCL3 - copia\SlnWebApiCL3\WebApiCL3\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\WebApiCL3 - copia\SlnWebApiCL3\WebApiCL3\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\WebApiCL3 - copia\SlnWebApiCL3\WebApiCL3\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\WebApiCL3 - copia\SlnWebApiCL3\WebApiCL3\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\WebApiCL3 - copia\SlnWebApiCL3\WebApiCL3\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\WebApiCL3 - copia\SlnWebApiCL3\WebApiCL3\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\WebApiCL3 - copia\SlnWebApiCL3\WebApiCL3\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\WebApiCL3 - copia\SlnWebApiCL3\WebApiCL3\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\WebApiCL3 - copia\SlnWebApiCL3\WebApiCL3\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\WebApiCL3 - copia\SlnWebApiCL3\WebApiCL3\obj\Debug\net6.0\WebApiCL3.csproj.AssemblyReference.cache
+C:\WebApiCL3 - copia\SlnWebApiCL3\WebApiCL3\obj\Debug\net6.0\WebApiCL3.GeneratedMSBuildEditorConfig.editorconfig
+C:\WebApiCL3 - copia\SlnWebApiCL3\WebApiCL3\obj\Debug\net6.0\WebApiCL3.AssemblyInfoInputs.cache
+C:\WebApiCL3 - copia\SlnWebApiCL3\WebApiCL3\obj\Debug\net6.0\WebApiCL3.AssemblyInfo.cs
+C:\WebApiCL3 - copia\SlnWebApiCL3\WebApiCL3\obj\Debug\net6.0\WebApiCL3.csproj.CoreCompileInputs.cache
+C:\WebApiCL3 - copia\SlnWebApiCL3\WebApiCL3\obj\Debug\net6.0\WebApiCL3.MvcApplicationPartsAssemblyInfo.cs
+C:\WebApiCL3 - copia\SlnWebApiCL3\WebApiCL3\obj\Debug\net6.0\WebApiCL3.MvcApplicationPartsAssemblyInfo.cache
+C:\WebApiCL3 - copia\SlnWebApiCL3\WebApiCL3\obj\Debug\net6.0\staticwebassets\msbuild.WebApiCL3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\WebApiCL3 - copia\SlnWebApiCL3\WebApiCL3\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApiCL3.props
+C:\WebApiCL3 - copia\SlnWebApiCL3\WebApiCL3\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApiCL3.props
+C:\WebApiCL3 - copia\SlnWebApiCL3\WebApiCL3\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApiCL3.props
+C:\WebApiCL3 - copia\SlnWebApiCL3\WebApiCL3\obj\Debug\net6.0\staticwebassets.pack.json
+C:\WebApiCL3 - copia\SlnWebApiCL3\WebApiCL3\obj\Debug\net6.0\staticwebassets.build.json
+C:\WebApiCL3 - copia\SlnWebApiCL3\WebApiCL3\obj\Debug\net6.0\staticwebassets.development.json
+C:\WebApiCL3 - copia\SlnWebApiCL3\WebApiCL3\obj\Debug\net6.0\scopedcss\bundle\WebApiCL3.styles.css
+C:\WebApiCL3 - copia\SlnWebApiCL3\WebApiCL3\obj\Debug\net6.0\WebApiCL3.csproj.CopyComplete
+C:\WebApiCL3 - copia\SlnWebApiCL3\WebApiCL3\obj\Debug\net6.0\WebApiCL3.dll
+C:\WebApiCL3 - copia\SlnWebApiCL3\WebApiCL3\obj\Debug\net6.0\refint\WebApiCL3.dll
+C:\WebApiCL3 - copia\SlnWebApiCL3\WebApiCL3\obj\Debug\net6.0\WebApiCL3.pdb
+C:\WebApiCL3 - copia\SlnWebApiCL3\WebApiCL3\obj\Debug\net6.0\WebApiCL3.genruntimeconfig.cache
+C:\WebApiCL3 - copia\SlnWebApiCL3\WebApiCL3\obj\Debug\net6.0\ref\WebApiCL3.dll

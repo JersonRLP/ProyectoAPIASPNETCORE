@@ -1,0 +1,57 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ClienteWebAPICL3
+build_property.RootNamespace = ClienteWebAPICL3
+build_property.ProjectDir = C:\WebApiCL3 - copia\ClienteWebAPICL3\ClienteWebAPICL3\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\WebApiCL3 - copia\ClienteWebAPICL3\ClienteWebAPICL3
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/WebApiCL3 - copia/ClienteWebAPICL3/ClienteWebAPICL3/Views/Articulos/EliminarArticulo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWN1bG9zXEVsaW1pbmFyQXJ0aWN1bG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WebApiCL3 - copia/ClienteWebAPICL3/ClienteWebAPICL3/Views/Articulos/ListarArticulosNo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWN1bG9zXExpc3RhckFydGljdWxvc05vLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WebApiCL3 - copia/ClienteWebAPICL3/ClienteWebAPICL3/Views/Articulos/ListarArticulosNombre.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWN1bG9zXExpc3RhckFydGljdWxvc05vbWJyZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WebApiCL3 - copia/ClienteWebAPICL3/ClienteWebAPICL3/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WebApiCL3 - copia/ClienteWebAPICL3/ClienteWebAPICL3/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WebApiCL3 - copia/ClienteWebAPICL3/ClienteWebAPICL3/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WebApiCL3 - copia/ClienteWebAPICL3/ClienteWebAPICL3/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WebApiCL3 - copia/ClienteWebAPICL3/ClienteWebAPICL3/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WebApiCL3 - copia/ClienteWebAPICL3/ClienteWebAPICL3/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/WebApiCL3 - copia/ClienteWebAPICL3/ClienteWebAPICL3/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-nxltemb2fu

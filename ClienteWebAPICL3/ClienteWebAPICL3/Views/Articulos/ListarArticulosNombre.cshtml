@@ -1,0 +1,80 @@
+﻿@model IEnumerable<ClienteWebAPICL3.Models.Articulos>
+
+@{
+    ViewData["Title"] = "ListarArticulosNombre";
+}
+
+<h1>Dar de baja a los Articulos</h1>
+
+<br />
+@using (Html.BeginForm("ListarArticulosNombre", "Articulos", FormMethod.Get))
+{
+    <div style="display:inline-flex">
+        <td>
+            <label for="nomart">Buscar por Nombre: </label>
+            <input type="text" id="nomart" name="nomart" class="form-control" />
+            <button type="submit" class="btn btn-primary">Buscar</button>
+        </td>
+    </div>
+}
+<br />
+<div>
+    <p>Cantidad de Articulos:  @ViewBag.cantidad</p>
+</div>
+<br />
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.cod_art)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.nom_art)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.uni_med)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.pre_art)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.stk_art)
+            </th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.cod_art)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.nom_art)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.uni_med)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.pre_art)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.stk_art)
+            </td>
+            <td>
+                <img src="@Url.Content("/articulos/"+ item.cod_art + ".jpg")"
+                        alt="@item.nom_art"
+                        style="width:80px;height:80px;"/>
+            </td>
+            <td>
+                    <a asp-action="EliminarArticulo" asp-route-cod_art="@item.cod_art">Dar de Baja</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+<br />

@@ -1,0 +1,449 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ClienteWebAPICL3.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ClienteWebAPICL3.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\articulos\\A0001.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0001.jpg"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\articulos\\A0002.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0002.jpg"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\articulos\\A0003.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0003.jpg"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\articulos\\A0004.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0004.jpg"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\articulos\\A0005.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0005.jpg"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\articulos\\A0006.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0006.jpg"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\articulos\\A0007.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0007.jpg"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\articulos\\A0008.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0008.jpg"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\articulos\\A0009.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0009.jpg"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\articulos\\A0010.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0010.jpg"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\articulos\\A0011.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0011.jpg"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\articulos\\A0012.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0012.jpg"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\articulos\\A0013.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0013.jpg"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\articulos\\A0014.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0014.jpg"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\articulos\\A0015.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0015.jpg"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\articulos\\A0016.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0016.jpg"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\articulos\\A0017.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0017.jpg"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\articulos\\A0018.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0018.jpg"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\articulos\\A0019.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0019.jpg"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\articulos\\A0020.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0020.jpg"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\articulos\\A0021.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0021.jpg"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\articulos\\A0022.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0022.jpg"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\articulos\\A0023.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0023.jpg"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\articulos\\A0024.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0024.jpg"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\articulos\\A0025.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0025.jpg"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\articulos\\A0026.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0026.jpg"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\articulos\\A0027.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0027.jpg"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\articulos\\A0028.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0028.jpg"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\articulos\\A0029.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0029.jpg"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\articulos\\A0030.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0030.jpg"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\articulos\\A0031.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0031.jpg"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\articulos\\A0032.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0032.jpg"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\articulos\\A0033.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0033.jpg"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\articulos\\A0034.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0034.jpg"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\articulos\\A0035.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0035.jpg"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\articulos\\A0036.jpg",
+      "PackagePath": "staticwebassets\\articulos\\A0036.jpg"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\articulos\\IMPRESORA_FOTOGRAFICA_02.jpg",
+      "PackagePath": "staticwebassets\\articulos\\IMPRESORA_FOTOGRAFICA_02.jpg"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\articulos\\IMPRESORA_FOTOGRAFICA_03.jpg",
+      "PackagePath": "staticwebassets\\articulos\\IMPRESORA_FOTOGRAFICA_03.jpg"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\articulos\\MEMORIAS_4_TRAVELER.jpg",
+      "PackagePath": "staticwebassets\\articulos\\MEMORIAS_4_TRAVELER.jpg"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\articulos\\PARLANTES_02.jpg",
+      "PackagePath": "staticwebassets\\articulos\\PARLANTES_02.jpg"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\articulos\\PENTIUM_I7.jpg",
+      "PackagePath": "staticwebassets\\articulos\\PENTIUM_I7.jpg"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\articulos\\PENTIUM_II.jpg",
+      "PackagePath": "staticwebassets\\articulos\\PENTIUM_II.jpg"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\articulos\\TECLADO_ERGONOMICO2.jpg",
+      "PackagePath": "staticwebassets\\articulos\\TECLADO_ERGONOMICO2.jpg"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\articulos\\TECLADO_PS2.jpg",
+      "PackagePath": "staticwebassets\\articulos\\TECLADO_PS2.jpg"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\articulos\\TINTA_HP1.jpg",
+      "PackagePath": "staticwebassets\\articulos\\TINTA_HP1.jpg"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\articulos\\sin_imagen.jpg",
+      "PackagePath": "staticwebassets\\articulos\\sin_imagen.jpg"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\SERVICIOSPROYECTOS\\EXAMENES\\CL3\\WebApiCL3\\ClienteWebAPICL3\\ClienteWebAPICL3\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ClienteWebAPICL3.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ClienteWebAPICL3.props",
+      "PackagePath": "build\\ClienteWebAPICL3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ClienteWebAPICL3.props",
+      "PackagePath": "buildMultiTargeting\\ClienteWebAPICL3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ClienteWebAPICL3.props",
+      "PackagePath": "buildTransitive\\ClienteWebAPICL3.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

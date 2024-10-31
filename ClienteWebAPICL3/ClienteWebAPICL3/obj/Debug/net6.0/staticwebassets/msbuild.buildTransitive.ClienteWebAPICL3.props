@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ClienteWebAPICL3.props" />
+</Project>

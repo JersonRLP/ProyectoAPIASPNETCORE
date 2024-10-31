@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ClienteWebAPICL3.props" />
+</Project>
